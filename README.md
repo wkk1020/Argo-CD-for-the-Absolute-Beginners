@@ -1,4 +1,4 @@
-# Argo CD for the Absolute Beginners
+# Argo CD for the Absolute Beginners (Mike)
 
 Argo CD for the Absolute Beginners - Hands-On DevOps
 
